@@ -1,8 +1,10 @@
 ## Hi there 👋
+
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{kennethwu30}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/kennethwu30/count.svg" alt="Visitor Count" />
 </div>
+
 
 <!--
 **kennethwu30/kennethwu30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
