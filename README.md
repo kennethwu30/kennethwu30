@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/kennethwu30/count.svg" alt="Visitor Count" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kennethwu30&color=blue" />
 </div>
 
 
