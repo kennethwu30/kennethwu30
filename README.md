@@ -1,12 +1,26 @@
 ## Hi there 👋 I’m Kenneth
 
 <div align="center">
+  <a href="mailto:kennethwu30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/kennethwu30/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kennethnw.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=kennethwu30&color=blue" />
 </div>
 
 ---
 
-### 📊 About Me
+### About Me
 
 - Junior studying **Informatics (Data Science)** at the **University of Washington**
 - Interested in **data analytics, product and business analytics, AI, and sports analytics**
@@ -16,20 +30,19 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,sqlite" />
-  <img src="https://skillicons.dev/icons?i=pandas,git,github,html,css,js,react,figma" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,r,sql,mysql,sqlite,java,cpp,javascript,html,css" />
 </p>
 
 <hr>
 
 ---
 
-### 📌 Featured Work
+### Featured Work
 
 - **UW Women’s Basketball Analytics**  
   Built Python and pandas pipelines and dashboards to track player performance, rankings, and team metrics.
@@ -39,16 +52,3 @@
 
 - **AI Job Market & LLM Trends**  
   Used R (tidyverse) to analyze multi-year job market and salary trends related to LLM releases.
-
----
-
-### 🤝 Let’s Connect
-
-<div align="center">
-  <a href="mailto:kennethwu30@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/kennethwu30/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
