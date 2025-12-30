@@ -1,21 +1,54 @@
-## Hi there 👋
+## Hi there 👋 I’m Kenneth
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kennethwu30&color=blue" />
 </div>
 
+---
 
-<!--
-**kennethwu30/kennethwu30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 About Me
 
-Here are some ideas to get you started:
+- Junior studying **Informatics (Data Science)** at the **University of Washington**
+- Interested in **data analytics, product and business analytics, AI, and sports analytics**
+- Currently working as a **Data Analyst for UW Women’s Basketball**, analyzing game and player performance data
+- Enjoy turning **messy data into clear, actionable insights** using Python, SQL, and visualization tools
+- Value collaboration and enjoy explaining data in a way that is practical and easy to understand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=pandas,git,github,html,css,js,react,figma" />
+</p>
+
+<hr>
+
+---
+
+### 📌 Featured Work
+
+- **UW Women’s Basketball Analytics**  
+  Built Python and pandas pipelines and dashboards to track player performance, rankings, and team metrics.
+
+- **NBA Performance Data Analysis**  
+  Analyzed player statistics using Python and Excel to explore performance trends and relationships.
+
+- **AI Job Market & LLM Trends**  
+  Used R (tidyverse) to analyze multi-year job market and salary trends related to LLM releases.
+
+---
+
+### 🤝 Let’s Connect
+
+<div align="center">
+  <a href="mailto:kennethwu30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/kennethwu30/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
