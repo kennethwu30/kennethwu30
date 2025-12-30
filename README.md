@@ -1,4 +1,4 @@
-## Hi there 👋 I’m Kenneth
+## 👋 Hi, I’m Kenneth Wu
 
 <div align="center">
   <a href="mailto:kennethwu30@gmail.com">
@@ -35,7 +35,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,r,sql,mysql,sqlite,java,cpp,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,java,cpp,javascript,html,css" />
 </p>
 
 <hr>
