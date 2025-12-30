@@ -14,11 +14,6 @@
 <img src="https://komarev.com/ghpvc/?username=kennethwu30&color=blue" />
 
 <br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kennethwu30&color=blue" />
-</div>
-
 ---
 
 ### About Me
