@@ -1,16 +1,17 @@
-## 👋 Hi, I’m Kenneth Wu
+## 👋 Hi, I’m Kenneth Wu  
+**Informatics (Data Science) @ University of Washington**
 
-<div align="center">
-  <a href="mailto:kennethwu30@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/kennethwu30/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kennethnw.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
+<a href="mailto:kennethwu30@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="https://www.linkedin.com/in/kennethwu30/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://kennethnw.com" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=kennethwu30&color=blue" />
 
 <br>
 
