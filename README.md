@@ -1,10 +1,11 @@
-## 👋 Hi, I’m Kenneth Wu  
-**Informatics (Data Science) @ University of Washington**
+## 👋 Hi, I’m Kenneth Wu
+
+Informatics (Data Science) @ University of Washington
 
 <a href="mailto:kennethwu30@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
-<a href="https://www.linkedin.com/in/kennethwu30/" target="_blank">
+<a href="https://www.linkedin.com/in/kenneth-wu-836833330/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://kennethnw.com" target="_blank">
@@ -13,7 +14,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=kennethwu30&color=blue" />
 
-<br>
+<hr>
 
 ### About Me
 
@@ -23,19 +24,17 @@
 - Enjoy turning **messy data into clear, actionable insights** using Python, SQL, and visualization tools
 - Value collaboration and enjoy explaining data in a way that is practical and easy to understand
 
----
+<hr>
 
 ### Languages and Tools
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,java,cpp,javascript,html,css" />
 </p>
 
 <hr>
-
----
 
 ### Featured Work
 
